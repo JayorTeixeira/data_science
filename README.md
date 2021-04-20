@@ -3,7 +3,7 @@
 </p>
 
 # Jayor Nesi Teixeira
-<sub>*Computer Engineering Studend at UFSC</sub>
+<sub>*Computer Engineering Studend at UFSC</sub>*
 
 **Background in:** Python, R, Machine Learning.
 
