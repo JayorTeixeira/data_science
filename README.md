@@ -15,7 +15,7 @@
 ## Projetos:
 Veja os tutoriais publicados:
 
-
+- Análise de Dados e Predição de Vencedores do UFC
 
 ---
 
